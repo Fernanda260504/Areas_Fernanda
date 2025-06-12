@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner (System.in);
-        System.out.println("Ayuda222");
+       
         System.out.println("Menu de opciones");
         System.out.println("1.Area de un cuadrado \n" +
                 "2.Area de un triangulo \n" +
